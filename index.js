@@ -2,7 +2,7 @@
 
 /*MAKE SURE TO RETURN ALL OF THE ANSWERS INSIDE OF A FUNCTION (tasks 1d through task 7), IF YOU DON'T, THE AUTOGRADER WILL NOT WORK*/
 
-// task 1a, 1b, and 1c are not autograded
+// task 1a, 1b, and 1c are not autograded testing..
 
 /*
 When doing these tasks, we recommend using console.log to test the output of your code to make sure it works correctly.
